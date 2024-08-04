@@ -26,4 +26,4 @@ The ATLIQ Hospitality Dashboard is a sophisticated data visualization and analyt
 6.Key Metrics Trend: The graph shows fluctuations in RevPAR, ADR, and Occupancy% over weeks, providing insights into seasonal trends.
 7.Property Performance: The detailed table allows for comparison across properties, revealing variations in metrics like RevPAR, ADR, and realization rates.
 
-# This dashboard serves as a crucial tool for hospitality management, enabling data-driven decision-making, performance tracking, and strategic planning. It allows managers to identify trends, spot areas for improvement, and capitalize on strengths across their property portfolio.
+ This dashboard serves as a crucial tool for hospitality management, enabling data-driven decision-making, performance tracking, and strategic planning. It allows managers to identify trends, spot areas for improvement, and capitalize on strengths across their property portfolio.
